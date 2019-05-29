@@ -1,0 +1,14 @@
+početak
+
+učitaj(a, b, c)
+
+izračunaj:
+    suma := a + b + c
+    umnozak := a * b * c
+
+ako je suma > umnozak tada
+    ispiši(suma)
+inače
+    ispiši(umnozak)
+
+kraj

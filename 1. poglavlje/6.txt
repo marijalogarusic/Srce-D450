@@ -1,0 +1,11 @@
+početak
+
+učitaj(a, b)
+
+ako je b == 0 tada
+    ispiši(Dijeljenje s nulom)
+inače
+    rezultat := a / b
+    ispiši(rezultat)
+
+kraj

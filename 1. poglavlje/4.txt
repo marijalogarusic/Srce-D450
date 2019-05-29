@@ -1,0 +1,10 @@
+početak
+
+učitaj(a, b)
+
+ako je a < b tada
+    ispiši(a, b)
+inače
+    ispiši(b, a)
+
+kraj
